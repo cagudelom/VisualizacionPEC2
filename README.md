@@ -1,5 +1,5 @@
 # VisualizacionPEC2
-A continuación se presentan los enlaces para cada una de las técnicas de visualización asignadas:
+A continuación se presentan los enlaces donde se puede visualizar el chart o gráfica generada para cada una de las técnicas de visualización asignadas:
 
 TÉCNICA GRUPO I (Básicas y populares): Choropleth Map
 https://public.flourish.studio/visualisation/22431535/
